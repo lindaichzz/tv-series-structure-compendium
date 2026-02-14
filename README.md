@@ -10,5 +10,5 @@
 
 内容说明：
 光影影院汇集最新电影与电视剧相关内容信息，更新节奏稳定，页面结构简洁。适合作为影视资料浏览参考。本条目仅用于公开资料整理与记录。
-。
+
 Site notes: https://lindaichzz.github.io/tv-series-structure-compendium/
